@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Hello88 SKIN - Trang Chủ Đăng Nhập Hello88 - hello88.skin
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hello88.skin <https://hello88.skin/>`_ là trang web được nhà cái Hello88 ủy quyền độc quyền đề quyền để cung cấp đến anh em cược thủ link truy cập chính thức tới nhà cái. Ngoài ra Hello88 mang đến những thông tin hữu ích cho anh em cược thủ khi tham gia Hello88 Casino.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 34 P. Thích Trí Hải, Dư Hàng, Lê Chân, Hải Phòng, Việt Nam. 
 
-   This project is under active development.
+Phone: 0980084211. 
 
-Contents
---------
+Email: info@hello88.skin. 
 
-.. toctree::
+Website: https://hello88.skin/
 
-   usage
-   api
+#hello88 #nhacaihello88 #trangchuhello88 #hello88_skin
